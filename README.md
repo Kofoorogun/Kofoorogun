@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kofoorogun
-- 👀 I’m interested in Data Science, Bioinformatics and Machine Learning
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on interesting Data Science projects, generating insights to improve healthcare
+- 👀 I’m interested in Data Science, Machine Learning and Bioinformatics
+- 🌱 I’m currently learning Machine Learning 
+- 💞️ I’m looking to collaborate on interesting Data Science  and Machine Learning projects, generating insights to improve healthcare
 - 📫 How to reach me : kofoorogun@gmail.com
 
 <!---
